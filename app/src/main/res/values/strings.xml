@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Sticker Widget</string>
+    <string name="widget_name">Photo Sticker Widget</string>
+    <string name="widget_description">Display custom photo cutout stickers directly on your Home Screen</string>
+    <string name="widget_sticker_desc">Photo Sticker</string>
+    <string name="widget_empty_placeholder">Tap to pick a sticker</string>
+    
+    <!-- Actions -->
+    <string name="take_photo">Take Photo</string>
+    <string name="pick_gallery">Choose Photo</string>
+    <string name="create_sticker">Create Sticker</string>
+    <string name="make_widget">Make Widget</string>
+    <string name="add_to_home">Pin to Home Screen</string>
+    <string name="save_sticker">Save Sticker</string>
+    <string name="re_edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    
+    <!-- Messages -->
+    <string name="segmenting_message">AI removing background and crafting sticker...</string>
+    <string name="widget_pinned_success">Widget added to Home Screen!</string>
+    <string name="pin_not_supported">Launcher does not support automated widget pinning. Please add widget from home screen widget menu.</string>
+    <string name="camera_permission_required">Camera permission is required to capture photos.</string>
+</resources>

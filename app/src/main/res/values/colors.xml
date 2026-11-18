@@ -1,0 +1,16 @@
+<resources>
+    <color name="purple_80">#D0BCFF</color>
+    <color name="purple_grey_80">#CCC2DC</color>
+    <color name="pink_80">#EFB8C8</color>
+
+    <color name="purple_40">#6650a4</color>
+    <color name="purple_grey_40">#625b71</color>
+    <color name="pink_40">#7D5260</color>
+
+    <color name="sticker_white">#FFFFFF</color>
+    <color name="sticker_yellow">#FFEB3B</color>
+    <color name="sticker_pink">#FF4081</color>
+    <color name="sticker_cyan">#00E5FF</color>
+    <color name="sticker_green">#00E676</color>
+    <color name="sticker_black">#212121</color>
+</resources>

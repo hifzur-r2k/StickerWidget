@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Camera outline -->
+    <path
+        android:fillColor="#80CBC4"
+        android:pathData="M32,38 L38,30 L70,30 L76,38 L84,38 C87.3,38 90,40.7 90,44 L90,78 C90,81.3 87.3,84 84,84 L24,84 C20.7,84 18,81.3 18,78 L18,44 C18,40.7 20.7,38 24,38 L32,38 Z"/>
+    <!-- Lens with sticker star -->
+    <path
+        android:fillColor="#1E1E2E"
+        android:pathData="M54,44 A17,17 0 1,1 54,78 A17,17 0 1,1 54,44 Z"/>
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M54,50 L57,57 L64,57 L58,62 L60,69 L54,65 L48,69 L50,62 L44,57 L51,57 Z"/>
+</vector>
